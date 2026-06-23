@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio and resume website built with **React.js**, showcasing my projects, certifications, internships, and skills.
 
-🔗 **Live Site:** [https://vivekananthant06.vercel.app]([https://vivekananthant06.vercel.app])
+🔗 **Live Site:** [vivekananthant06.vercel.app] ([https://vivekananthant06.vercel.app])
 
 ---
 
