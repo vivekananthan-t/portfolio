@@ -38,7 +38,7 @@ const personalInfo = {
 
 const skills = {
   technical: [
-    "C", "C++", "Java", "Python", "HTML", "CSS", 
+     "Java", "Python", "HTML", "CSS", 
     "React.js", "Node.js", "Express.js", 
     "SQL", "MongoDB", "Git", "GitHub", "VS Code"
   ],
