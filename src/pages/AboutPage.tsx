@@ -27,7 +27,7 @@ const itemVariants = {
 
 const personalInfo = {
   name: "VIVEKANANTHAN T",
-  title: "Computer Science and Engineering Student",
+  title: "Computer Science and Engineering ",
   location: "Perambalur, Tamil Nadu, India",
   email: "vivekananthantech@gmail.com",
   phone: "+91 9514299319",
