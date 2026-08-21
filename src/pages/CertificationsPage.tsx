@@ -60,12 +60,11 @@ const Certifications = [
   {
     id: 2,
     title: "Python Programming Training",
-    issuer: "Coursera",
+    issuer: "SYSTECH",
     date: "May 2023 – July 2023",
     skills: ["Python", "Programming Basics"]
   }
 ];
-
 const expoWorkshops = [
   {
     id: 1,
